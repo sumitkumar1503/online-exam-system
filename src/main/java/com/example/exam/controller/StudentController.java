@@ -169,7 +169,11 @@ public class StudentController {
 
         return "redirect:/student/profile";
     }
-
+    /***
+     Subscribe Lazycoder - https://www.youtube.com/c/LazyCoderOnline?sub_confirmation=1
+     whatsapp - https://wa.me/919572181024
+     email - wapka1503@gmail.com
+     ***/
 
     @PostMapping("/profile/update-password")
     public String updatePassword(@RequestParam("oldPassword") String oldPassword,
@@ -207,3 +211,8 @@ public class StudentController {
     }
 }
 
+/***
+ Subscribe Lazycoder - https://www.youtube.com/c/LazyCoderOnline?sub_confirmation=1
+ whatsapp - https://wa.me/919572181024
+ email - wapka1503@gmail.com
+ ***/
