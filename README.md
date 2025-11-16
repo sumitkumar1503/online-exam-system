@@ -52,7 +52,6 @@ https://www.youtube.com/c/LazyCoderOnline?sub_confirmation=1
 
 # 📸 Screenshots
 
-> ⚠️ Replace these placeholder URLs with actual screenshot image links.
 
 <table width="100%">
 <tr>
@@ -60,7 +59,7 @@ https://www.youtube.com/c/LazyCoderOnline?sub_confirmation=1
 <td align="center"><b>Student Dashboard</b></td>
 </tr>
 <tr>
-<td align="center"><img src="https://placehold.co/600x400?text=Admin+Dashboard" width="90%"></td>
+<td align="center"><img src="https://raw.githubusercontent.com/sumitkumar1503/online-exam-system/screenshots/admin-dashboard.png" width="90%"></td>
 <td align="center"><img src="https://placehold.co/600x400?text=Student+Dashboard" width="90%"></td>
 </tr>
 
