@@ -138,7 +138,7 @@ public class AdminController {
         // CascadeType.ALL, deleting the exam will also delete
         // all associated questions and results.
         examRepository.deleteById(examId);
-        return "redirect:/admin/dashboard";
+        return "redirect:/admin/manage-exams";
     }
 
     @GetMapping("/exam/edit/{examId}")

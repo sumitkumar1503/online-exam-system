@@ -1,10 +1,8 @@
-# 🚀 Online Exam System – Spring Boot & Thymeleaf
+# 🚀 Online Exam System – Java (Spring Boot)
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java&logoColor=white" alt="Java 17">
 <img src="https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot 3.x">
-<img src="https://img.shields.io/badge/Thymeleaf-3.x-green?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf">
-<img src="https://img.shields.io/badge/Spring%20Security-6-blue?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security 6">
 <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-red?style=for-the-badge" alt="JPA / Hibernate">
 <img src="https://img.shields.io/badge/H2%20Database-lightgrey?style=for-the-badge" alt="H2 Database">
 </p>
@@ -22,7 +20,7 @@ The platform provides a secure and user-friendly environment for **Admins** and 
 This project is created by **LazyCoder**.
 
 ### 📺 Subscribe to My YouTube Channel
-I post tutorials, Java projects, and Spring Boot content regularly.
+I post tutorials, Java/Python projects, and Spring Boot content regularly.
 
 👉 **Subscribe Here:**  
 https://www.youtube.com/c/LazyCoderOnline?sub_confirmation=1
@@ -54,25 +52,34 @@ https://www.youtube.com/c/LazyCoderOnline?sub_confirmation=1
 
 
 <table width="100%">
-<tr>
-<td align="center"><b>Admin Dashboard</b></td>
-</tr>
-<tr>
-<td align="center"><img src="https://github.com/sumitkumar1503/online-exam-system/blob/master/screenshots/xyz.jpg?raw=true" width="90%"></td>
-</tr>
+
 
 <tr>
 <td align="center"><b>Exam Page (with Pagination)</b></td>
 </tr>
 <tr>
-<td align="center"><img src="https://github.com/sumitkumar1503/online-exam-system/blob/master/screenshots/xyz.jpg" width="90%"></td>
+<td align="center"><img src="https://github.com/sumitkumar1503/online-exam-system/blob/master/screenshots/exampage.png" width="90%"></td>
 </tr>
 
 <tr>
-<td align="center"><b>Manage Students</b></td>
+<td align="center"><b>Admin Dashboard</b></td>
 </tr>
 <tr>
-<td align="center"><img src="https://github.com/sumitkumar1503/online-exam-system/blob/master/screenshots/xyz.jpg" width="90%"></td>
+<td align="center"><img src="https://github.com/sumitkumar1503/online-exam-system/blob/master/screenshots/admindashboard.png?raw=true" width="90%"></td>
+</tr>
+
+<tr>
+<td align="center"><b>Manage Exam</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://github.com/sumitkumar1503/online-exam-system/blob/master/screenshots/adminmanageexam.png" width="90%"></td>
+</tr>
+
+<tr>
+<td align="center"><b>Manage Question</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://github.com/sumitkumar1503/online-exam-system/blob/master/screenshots/adminmanagequestion.png" width="90%"></td>
 </tr>
 </table>
 
@@ -111,14 +118,14 @@ https://www.youtube.com/c/LazyCoderOnline?sub_confirmation=1
 
 # 🛠️ Tech Stack
 
-| Layer | Technology |
-|------|------------|
-| Backend | Spring Boot 3, Spring Security 6 |
-| Frontend | Thymeleaf, Bootstrap 5, Chart.js |
-| Database | H2 (file-based) |
-| ORM | Hibernate / JPA |
-| Build | Maven |
-| Storage | Local File System for images |
+| Layer | Technology                                 |
+|------|--------------------------------------------|
+| Backend | Spring Boot 3, Spring Security 6           |
+| Frontend | Thymeleaf, Html, Bootstrap 5, Chart.js     |
+| Database | H2 (file-based) (configurable to other DB) |
+| ORM | Hibernate / JPA                            |
+| Build | Maven                                      |
+| Storage | Local File System for images               |
 
 ---
 
